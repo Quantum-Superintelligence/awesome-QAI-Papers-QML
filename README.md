@@ -159,6 +159,15 @@ These papers were screened as directly relevant to QML methodology, theory, foun
 | Advancing quantum machine learning from conceptual design to practical use | 2026 | Expert Systems with Applications | Sivarama Prasad Tera; Ravikumar Chinthaginjala; Xin Zhao; Monia Hamdi | [DOI](https://doi.org/10.1016/j.eswa.2026.132127) | QML |
 | A Survey of Quantum Machine Learning: Foundations, Algorithms, Frameworks, Data and Applications | 2025 | ACM Computing Surveys | Francesc Rodríguez-Díaz; David Gutiérrez-Avilés; Alicia Troncoso; Francisco Martínez-Álvarez | [DOI](https://doi.org/10.1145/3764582) | QML |
 
+### Additional screened literature
+
+| title | year | publisher | Author | link | category |
+|---|---:|---|---|---|---|
+| Noisy quantum learning theory | 2026 | Nature Communications | Jordan Cotler; Weiyuan Gong; Ishaan Kannan | [DOI](https://doi.org/10.1038/s41467-026-73693-x) | QML |
+| Quantum feature-map learning with reduced resource overhead | 2026 | Physical Review Research | Jonas Jäger; Philipp Elsässer; Elham Torabian | [DOI](https://doi.org/10.1103/v29j-rh32) | QML |
+| Entanglement and classical simulability in quantum extreme-learning machines | 2026 | Physical Review Applied | A. De Lorenzis; M. P. Casado; N. Lo Gullo; T. Lux; F. Plastina et al. | [DOI](https://doi.org/10.1103/891x-ltcy) | QML |
+| A regularization method for quantum neural networks using data symmetry | 2026 | Discover Quantum Science | Hiroshi Ohno | [DOI](https://doi.org/10.1007/s44464-026-00039-3) | QML |
+
 ## 🔗 Cross-References
 - [Quantum Computing Fundamentals](https://github.com/Q-brain/awesome-QAI-Papers-QComputing)  
 - [Quantum Machine Learning](https://github.com/Q-brain/awesome-QAI-Papers-QML)  
