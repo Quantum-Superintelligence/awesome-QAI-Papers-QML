@@ -1,17 +1,17 @@
 # 🔄 Quantum Machine Learning (QML) Papers
 
-This section of the **Quantum AI Papers** repository focuses on **Quantum Machine Learning (QML)**.  
-QTL leverages knowledge from pre-trained quantum or hybrid quantum-classical models and adapts it to new tasks or domains. This paradigm plays a crucial role in overcoming limitations of small datasets, reducing training costs, and accelerating the deployment of quantum-enhanced AI systems.  
+This section of the **Quantum AI Papers** repository focuses on **Quantum Machine Learning (QML)**: the study of machine-learning algorithms that use quantum data, quantum circuits, or hybrid quantum-classical models.  
+The collection covers QML foundations, algorithms, trainability, data encoding, quantum advantage, hardware experiments, software frameworks, and representative applications.  
 
 ---
 
 ## 📚 Scope
 Research papers in this category explore:
-- Transfer of learned quantum circuit parameters between tasks  
-- Hybrid classical–quantum transfer learning frameworks  
-- Applications of QTL in physics, chemistry, medical imaging, and natural language processing  
-- Optimization strategies to mitigate issues such as barren plateaus  
-- Cross-domain transfer of quantum models for practical real-world problems  
+- Quantum kernels, variational circuits, quantum neural networks, and quantum classifiers  
+- Quantum and hybrid quantum-classical learning algorithms for classical or quantum data  
+- Trainability, generalization, expressivity, noise, barren plateaus, and quantum advantage  
+- Data encoding, software frameworks, hardware-aware methods, and experimental validation  
+- Theoretical foundations, systematic reviews, benchmarks, and carefully selected applications  
 
 ---
 
@@ -144,6 +144,20 @@ Research papers in this category explore:
 
 
 ---
+
+## 🆕 Newly added and verified literature (2025–2026)
+
+These papers were screened as directly relevant to QML methodology, theory, foundations, or experimental practice. Application-only papers that did not add a methodological contribution were not added.
+
+| title | year | publisher | Author | link | category |
+|---|---:|---|---|---|---|
+| Advantage of quantum machine learning from general computational advantages | 2026 | npj Quantum Information | Hayata Yamasaki; Natsuto Isogai; Mio Murao | [DOI](https://doi.org/10.1038/s41534-026-01279-y) | QML |
+| Intrinsic Preservation of Plasticity in Continual Quantum Learning | 2026 | PRX Quantum | Yu-Qin Chen; Shi-Xin Zhang | [DOI](https://doi.org/10.1103/ry52-85ll) | QML |
+| Learning complexity gradually in quantum machine learning models | 2026 | Physical Review Research | Erik Recio-Armengol; Franz J. Schreiber; Carlos Bravo-Prieto | [DOI](https://doi.org/10.1103/wnlr-q9xd) | QML |
+| Experimental demonstration of quantum continual learning with superconducting qubits | 2026 | npj Quantum Information | Chuanyu Zhang et al. | [DOI](https://doi.org/10.1038/s41534-025-01174-y) | QML |
+| Quantum machine learning with canonical variables | 2026 | Quantum Machine Intelligence | Jesús Fuentes | [DOI](https://doi.org/10.1007/s42484-026-00373-w) | QML |
+| Advancing quantum machine learning from conceptual design to practical use | 2026 | Expert Systems with Applications | Sivarama Prasad Tera; Ravikumar Chinthaginjala; Xin Zhao; Monia Hamdi | [DOI](https://doi.org/10.1016/j.eswa.2026.132127) | QML |
+| A Survey of Quantum Machine Learning: Foundations, Algorithms, Frameworks, Data and Applications | 2025 | ACM Computing Surveys | Francesc Rodríguez-Díaz; David Gutiérrez-Avilés; Alicia Troncoso; Francisco Martínez-Álvarez | [DOI](https://doi.org/10.1145/3764582) | QML |
 
 ## 🔗 Cross-References
 - [Quantum Computing Fundamentals](https://github.com/Q-brain/awesome-QAI-Papers-QComputing)  
